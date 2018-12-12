@@ -3,7 +3,7 @@
 
 ### Accessible links to the Metaproteomics training material. 
 
-
+[![METAPROTEOMICS](http://img.youtube.com/vi/Vywt_-D5Kek/0.jpg)](http://www.youtube.com/watch?v=Vywt_-D5Kek "Metaproteomics")
 
 * [**_Metaproteomics Gateway_**](http://z.umn.edu/metaproteomicsgateway){:target="_blank"}
 
